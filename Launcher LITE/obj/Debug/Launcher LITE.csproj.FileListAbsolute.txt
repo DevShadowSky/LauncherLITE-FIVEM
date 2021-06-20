@@ -1,0 +1,10 @@
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\bin\Debug\Launcher LITE.exe.config
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\bin\Debug\Launcher LITE.exe
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\bin\Debug\Launcher LITE.pdb
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher LITE.csprojAssemblyReference.cache
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher_LITE.Form1.resources
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher_LITE.Properties.Resources.resources
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher LITE.csproj.GenerateResource.cache
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher LITE.csproj.CoreCompileInputs.cache
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher LITE.exe
+C:\Users\DevShadowSky\Desktop\Launcher\Launcher LITE\obj\Debug\Launcher LITE.pdb
